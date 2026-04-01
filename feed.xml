@@ -3,7 +3,7 @@
   <title>CS+Ling Webring</title>
   <link href="https://csplusling.github.io/feed.xml" rel="self"/>
   <link href="https://csplusling.github.io/"/>
-  <updated>2026-04-01T23:34:46.220463+00:00</updated>
+  <updated>2026-04-01T23:38:27.559321+00:00</updated>
   <id>https://csplusling.github.io/</id>
   <author>
     <name>CS+Ling Webring</name>
@@ -12,7 +12,7 @@
     <title>Feed readers are awesome!</title>
     <link href="https://sriya-g.github.io/blog/feed-readers-are-awesome/"/>
     <id>https://sriya-g.github.io/blog/feed-readers-are-awesome/</id>
-    <updated>2026-03-22T06:00:00+00:00</updated>
+    <updated>2026-03-22T00:00:00+00:00</updated>
     <summary><![CDATA[<p>RSS/Atom* feeds may seem like a relic of the past, but they're still relevant as a way to glean useful and enjoyable content from an increasingly insincere Internet.  <a href="https://sriya-g.github.io/atom.xml" rel="external">I have a feed</a> that I recommend using if you want to see my blog posts.</p>
 <p>Plenty of people have written about feeds, but I wanted to put down my personal reasons on why I like them.</p>
 <p>(*sidenote: RSS and Atom are news feed formats. Most feed readers will support both.)</p>
@@ -52,7 +52,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>Mouse Fan Tries Tiling WM</title>
     <link href="https://sriya-g.github.io/blog/mouse-fan-tries-tiling-wm/"/>
     <id>https://sriya-g.github.io/blog/mouse-fan-tries-tiling-wm/</id>
-    <updated>2026-02-26T06:00:00+00:00</updated>
+    <updated>2026-02-26T00:00:00+00:00</updated>
     <summary><![CDATA[<h2 id="why">Why</h2>
 <p>For fun :)</p>
 <p>Real answer: I use my laptop too much. I wanted to make it harder for me to get distracted by switching to new keybinds, etc, so I didn't have the muscle memory to open the most distracting apps anymore.</p>
@@ -80,7 +80,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>Cool stuff (ongoing)</title>
     <link href="https://sriya-g.github.io/blog/cool-stuff-ongoing/"/>
     <id>https://sriya-g.github.io/blog/cool-stuff-ongoing/</id>
-    <updated>2026-02-16T06:00:00+00:00</updated>
+    <updated>2026-02-16T00:00:00+00:00</updated>
     <summary><![CDATA[<h2 id="blog-posts">Blog Posts</h2>
 <h3 id="technology">Technology</h3>
 <ul>
@@ -113,7 +113,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>Still buying CDs in 2026</title>
     <link href="https://sriya-g.github.io/blog/still-buying-cds-in-2026/"/>
     <id>https://sriya-g.github.io/blog/still-buying-cds-in-2026/</id>
-    <updated>2026-02-10T06:00:00+00:00</updated>
+    <updated>2026-02-10T00:00:00+00:00</updated>
     <summary><![CDATA[<p>I used to use Spotify. I was on the Free plan, so I could only listen to music on shuffle, and I had a limited number of skips each hour. It basically turned my music listening experience into a slot machine, pulling the lever six times to see if I'd get one of the songs I wanted from each playlist. At some point, I also noticed that playlist shuffle song sequences would repeat, with some songs always coming after other songs in a predictable way. <a href="https://community.spotify.com/t5/Desktop-Windows/Shuffle-mode-playing-the-same-songs-all-the-time/td-p/5280042" rel="external">Others</a> have had this issue too. Even if it was a deliberate design choice, I disagree with it. If shuffle isn't truly random, why label it as shuffle in the first place? I'm sure I would have had a far better experience if I paid for Spotify Premium, but as a high school student with no income, it wasn't possible for me at the time.</p>
 <p>Shortly after I graduated high school, I deleted my Spotify account and decided to start collecting CDs. I wanted to "own" my music, and I personally prefer buying CDs to buying digital albums. I can pick up a CD, read the booklet it (usually) comes with, and use it. It's like functional merch for my favorite artists, and even brand new, it's usually around the same price or only slightly more expensive than the digital version of the album. If you buy the CD used, it might even be cheaper. I've bought CDs for literally 25 cents that I ended up enjoying. I recommend checking library sales, garage sales, thrift stores, and record stores.</p>
 <p>I usually listen to albums that my friends recommended on services like YouTube (Music) and Bandcamp, track my listens with Last.fm, and then buy the CDs of the albums I listened to the most so I could back them up and listen to them in full quality, offline, with no ads. For me, buying a CD motivates me to give the whole album a try, not just the best-known tracks. I sometimes discovered that I liked almost every song on albums I only listened to two or three tracks of on Spotify. Other times, I realized that an album that didn't have many songs I liked when listening to individual songs actually sounded great when it was listened to all together.</p>
@@ -132,7 +132,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>Calendar and Tasks Clients on Linux</title>
     <link href="https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/"/>
     <id>https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/</id>
-    <updated>2026-02-04T06:00:00+00:00</updated>
+    <updated>2026-02-04T00:00:00+00:00</updated>
     <summary><![CDATA[<h2 id="why">Why</h2>
 <p>I've been looking for good to-do &amp; calendar app(s) for over a year now.</p>
 <p>Before I started self hosting my calendar and to-dos, I used Google Calendar and Tasks. These worked perfectly for my use case. I created a different list for each of my classes, and tasks with due dates showed up on my calendar.</p>
@@ -184,7 +184,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>reading list</title>
     <link href="https://adhithirumala.com/blog/reading-list/"/>
     <id>https://adhithirumala.com/blog/reading-list/</id>
-    <updated>2026-01-06T06:00:00+00:00</updated>
+    <updated>2026-01-06T00:00:00+00:00</updated>
     <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
 <p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
 <h2 id="articles">articles</h2>
@@ -225,7 +225,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>reading list</title>
     <link href="https://adhithirumala.com/blog/reading-list/"/>
     <id>https://adhithirumala.com/blog/reading-list/</id>
-    <updated>2026-01-06T06:00:00+00:00</updated>
+    <updated>2026-01-06T00:00:00+00:00</updated>
     <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
 <p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
 <h2 id="articles">articles</h2>
@@ -266,7 +266,7 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <title>reading list</title>
     <link href="https://adhithirumala.com/blog/reading-list/"/>
     <id>https://adhithirumala.com/blog/reading-list/</id>
-    <updated>2026-01-06T06:00:00+00:00</updated>
+    <updated>2026-01-06T00:00:00+00:00</updated>
     <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
 <p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
 <h2 id="articles">articles</h2>
