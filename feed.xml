@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CS+Ling Webring</title>
+  <link href="https://csplusling.github.io/feed.xml" rel="self"/>
+  <link href="https://csplusling.github.io/"/>
+  <updated>2026-04-01T23:49:08.012050+00:00</updated>
+  <id>https://csplusling.github.io/</id>
+  <author>
+    <name>CS+Ling Webring</name>
+  </author>
+  <entry>
+    <title>Feed readers are awesome!</title>
+    <link href="https://sriya-g.github.io/blog/feed-readers-are-awesome/"/>
+    <id>https://sriya-g.github.io/blog/feed-readers-are-awesome/</id>
+    <updated>2026-03-22T00:00:00+00:00</updated>
+    <summary><![CDATA[<p>RSS/Atom* feeds may seem like a relic of the past, but they're still relevant as a way to glean useful and enjoyable content from an increasingly insincere Internet.  <a href="https://sriya-g.github.io/atom.xml" rel="external">I have a feed</a> that I recommend using if you want to see my blog posts.</p>
+<p>Plenty of people have written about feeds, but I wanted to put down my personal reasons on why I like them.</p>
+<p>(*sidenote: RSS and Atom are news feed formats. Most feed readers will support both.)</p>
+<h2 id="customizable">Customizable</h2>
+<p>You choose your sources. Only your favorite news outlets with high quality reporting, not the slop that goes viral on social media. Your favorite blogs that no longer get drowned out by the louder parts of the internet. Even your favorite social media creators, divorced from the forces of that social media's algorithms, can be found (Not all social media websites have feeds, but some do).</p>
+<p>Crafting your feed list is very intentional. What do you enjoy seeing?</p>
+<h3 id="sidenote-learning-intentional-browsing">Sidenote: Learning intentional browsing</h3>
+<p>My generation grew up with algorithmic social media. The algorithms of most popular services push the most "engaging" content to the top regardless of whether you follow them, unlike chronological timelines of the past that were typically limited to who you followed, or the even older Internet where you actively had to seek out websites and blogs.</p>
+<p>One day, you decide to leave these services (or significantly decrease their use) and go for an alternative. But you're stuck: unlike the past services you used that pushed the most engaging content to you automatically, this new service asks <em>you</em> who you want to follow, and only shows you that content. But what if you don't know who to follow, or what you want, because you've never had to think about it? How can you find people to follow without the algorithm telling you who to follow? The content in your new "feed" is so boring!</p>
+<p>Switching to a feed reader instead of reading news updates on social media is similar. How can you find new content that gives you the same high as scrolling your personalized recommendations?</p>
+<p>I have two pieces of advice. First of all, most of that "high" comes from seeing engagement from other people (real or fake). I needed to taper it down, learn to just enjoy the content itself instead of the engagement and hype around it. Stop reading comments sections! Block them with a web extension if you have to.</p>
+<p>Secondly, find out if your favorite news outlets have RSS/Atom feeds, and look at blog aggregators to find new blogs you're interested in.</p>
+<p><a href="https://blog.avas.space/discover/" rel="external">List of blog aggregators that might be useful</a></p>
+<h2 id="can-be-local">Can be local</h2>
+<p>You can subscribe to feeds locally, on your computer (with some of the clients I listed below.) Of course, this means that if your computer is destroyed or lost, you lose access to your feeds, their read status, articles you marked as "saved" in your feed reader, etc. But it also means you don't need to rely on having access to the feed reader service's servers, which also means you won't be paying a subscription fee to save your feed information to said servers (or relying on the goodness of their hearts to keep providing the service for free.)</p>
+<p>If you choose this path, make sure to save your feed list somewhere safe!</p>
+<h2 id="everything-you-want-to-see">Everything you want to see</h2>
+<p>A RSS/Atom feed for a source shows you their posts, in chronological order. Depending on the website, they may have a feed for all content, or separate feeds for different subjects, or both, so you can pick and choose what you're interested in.</p>
+<p>If you're a publisher with an RSS feed, you don't need to worry about your fans missing out on your content because it didn't go viral and reach the top of their social media feed. If you're a fan of a blog or news outlet that uses their RSS Feed, you don't have to worry about missing out on new content because it didn't go viral, the newsletter got buried in your email, etc. You see it in your feed reader.</p>
+<p>If you want, you can see updates from your favorite news sources, blogs, and even some social media in one place.</p>
+<h2 id="many-options">Many options</h2>
+<p>Want to read your feeds on an online service you log in to? There <a href="https://www.inoreader.com/" rel="external">are</a> <a href="https://www.theoldreader.com/en/" rel="external">options</a> for you!</p>
+<p>Want to read your feeds locally with a GUI? There <a href="https://github.com/yang991178/fluent-reader" rel="external">are</a> <a href="https://apps.kde.org/akregator/" rel="external">options</a> for you!</p>
+<p>Want to read your feeds locally in the terminal? There <a href="https://newsboat.org/" rel="external">are</a> <a href="https://github.com/ckampfe/russ" rel="external">options</a> for you!</p>
+<p>Want to read your feeds on your e-reader? In fact, there <a href="https://koreader.rocks/" rel="external">are</a> <a href="https://manual.calibre-ebook.com/news.html" rel="external">options</a> for you!</p>
+<p>Want to fetch feed updates and store them on your server, then read them in a local terminal client, with two-way sync? Believe it or not, you <a href="https://github.com/nextcloud/news" rel="external">have</a> <a href="https://gideonwolfe.com/posts/workflow/newsboat/" rel="external">options</a>! (This is what I do)</p>
+<p>Having so many options can be somewhat overwhelming when you're used to only having whatever your proprietary social media feed supported, but it just means you have plenty of feature choice.</p>
+<h2 id="no-more-infinite-scroll">No more infinite scroll</h2>
+<p>The infinite scroll really gets me sometimes. I have to abstain entirely from browsing certain websites for fun, because I know I won't be able to stop.</p>
+<p>But sometimes, I still want updates from my favorite creators who are on these websites. In some cases, these websites have RSS/Atom feeds for specific accounts that I can use to only see new content from those people. These feeds can be somewhat hidden; <a href="https://www.rsslookup.com/" rel="external">RSS Lookup</a> can help.</p>
+<p>For example, I use the hidden YouTube channel feeds (found with RSS Lookup) to follow my favorite YouTube channels. I get an update in my feed reader when they post a new video, and I use <a href="https://unhook.app/" rel="external">Unhook</a> to hide literally every other UI element so I can't click onto another video and keep watching endlessly. I even hide the video information so I'm not tempted to click on the channel and watch old videos. I still get to enjoy my favorite content, but on my terms.
+<img alt="modified youtube UI only showing video" src="https://sriya-g.github.io/youtube.png" style="width: 50%; display: block;" />
+What my YouTube UI looks like now. Notice how there is nothing to look at or click on except the video I'm watching (Dankpods). Once the video I intended on watching is done, I just leave.</p>
+<p>With newsfeeds and a feed reader, this principle can apply to the entire Internet. Check your reader, read what's new, then move on.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Mouse Fan Tries Tiling WM</title>
+    <link href="https://sriya-g.github.io/blog/mouse-fan-tries-tiling-wm/"/>
+    <id>https://sriya-g.github.io/blog/mouse-fan-tries-tiling-wm/</id>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <summary><![CDATA[<h2 id="why">Why</h2>
+<p>For fun :)</p>
+<p>Real answer: I use my laptop too much. I wanted to make it harder for me to get distracted by switching to new keybinds, etc, so I didn't have the muscle memory to open the most distracting apps anymore.</p>
+<h2 id="first-impressions">First Impressions</h2>
+<p>I chose Sway. I was a bit overwhelmed by the new keybinds at first (I didn't look at them before I started) so I found a cheat sheet online and saved it so I could refer to it at any time.</p>
+<p>I liked the ease of switching workspaces and wmenu. I didn't like the borders but couldn't figure out how to turn them off. Opening applications felt more intentional because I had to type their names in instead of just clicking on them. I use multiple terminal windows a lot, and opening new terminals and seeing them side by side is nice.</p>
+<h2 id="more-setup-i-did">More setup I did</h2>
+<ul>
+<li>Changing my wallpaper :)</li>
+<li>Finally removing borders (added a line of config to my Sway config file)</li>
+<li>Spending about an hour trying to figure out how to autoconnect to my home wifi</li>
+<li>Replacing wmenu with Rofi as my default launcher so I could actually see all of my programs</li>
+<li>Replacing the default bar with Waybar, then <a href="https://github.com/arkboix/sway" rel="external">finding a config I liked</a></li>
+<li>Increasing my touchpad sensitivity so I could move my mouse faster</li>
+<li>Configuring Sway to assume my laptop was to the left of my monitor, not the right</li>
+</ul>
+<h2 id="final-results">Final results!</h2>
+<p>I was expecting the keybinds to be harder to remember, but the ones I use the most (opening Rofi, opening terminal, switching workspaces, exiting programs) really stuck in my brain. For the other keybinds, I still have to refer to my cheat sheet sometimes.</p>
+<p>KDE Plasma really takes care of a lot of things for you. I had to reconfigure my wifi connections, etc through my terminal for the first time (though I probably could have used KDE System Settings, which I still have access to, I couldn't open it through wmenu and I didn't set up Rofi yet). It felt like starting to use Linux all over again. The troubleshooting process was fun though.</p>
+<p>The default Sway config file is nicely structured and provides a lot of examples, which helped me figure out where to put my lines of config. Because the config is a single file, it'll hopefully be easy for me to port it to my next laptop or PC.</p>
+<p>My favorite thing about Sway is probably being able to close programs with a key combo. It's very satisfying. Also, having a browser open to view instructions and a terminal command right next to it is useful. No more dragging my cursor down to the bottom of my screen to switch programs.</p>
+<p>There's probably more I can configure (I want my custom cursor back!) but I'm happy with what I have right now.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Cool stuff (ongoing)</title>
+    <link href="https://sriya-g.github.io/blog/cool-stuff-ongoing/"/>
+    <id>https://sriya-g.github.io/blog/cool-stuff-ongoing/</id>
+    <updated>2026-02-16T00:00:00+00:00</updated>
+    <summary><![CDATA[<h2 id="blog-posts">Blog Posts</h2>
+<h3 id="technology">Technology</h3>
+<ul>
+<li><a href="https://aboutfeeds.com/" rel="external">About Feeds</a>
+<ul>
+<li>If you've ever been confused about the orange wifi symbol thing you see on some websites and blogs, read this!</li>
+<li>Related: <a href="https://blog.avas.space/discover/" rel="external">A helpful list of blog aggregators that has helped me find interesting blogs. Some have RSS feeds!</a></li>
+</ul>
+</li>
+<li><a href="https://stephango.com/file-over-app" rel="external">File over app</a>
+<ul>
+<li>Why I prefer applications that trust me to handle my own files (and are fine with me departing with said files, if I want to try a different service)</li>
+</ul>
+</li>
+<li><a href="https://drmollytov.smol.pub/2026-02-16" rel="external">what does "learn to use a computer" mean, anyway?</a>
+<ul>
+<li>"Handing our kids iPads or Chromebooks is not teaching them to be 'computer literate,' except in the worst end-user, raw-materials-for-data-extraction, corporate-drone sense."</li>
+<li>Related: <a href="https://riz0me.bearblog.dev/2026/02/14/normal-people-dont-use-the-internet/" rel="external">normal people don't use the internet</a></li>
+<li>Related to the above: it's not true that all Gen Z or Gen Alpha or whatever have no idea how computers work or how to make a website - there will probably always be enthusiasts! The difference is that the average person who does <strong>not</strong> want to be an enthusiast (which is a valid position; none of this stuff existed 50 years ago and no one should be forced to care about it) is primed to use services that take away their digital autonomy, and these services make moving away require technical enthusiasm (because they reeeeally don't want to lose users.)</li>
+</ul>
+</li>
+<li><a href="https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/" rel="external">It's rude to show AI output to people</a>
+<ul>
+<li>One thing: a lot of AI output is unprovoked (in terms of AI slop that gets posted by bots for various reasons) and should be ignored completely. This is great etiquette for AI slop that comes from known humans though.</li>
+</ul>
+</li>
+</ul>]]></summary>
+  </entry>
+  <entry>
+    <title>Still buying CDs in 2026</title>
+    <link href="https://sriya-g.github.io/blog/still-buying-cds-in-2026/"/>
+    <id>https://sriya-g.github.io/blog/still-buying-cds-in-2026/</id>
+    <updated>2026-02-10T00:00:00+00:00</updated>
+    <summary><![CDATA[<p>I used to use Spotify. I was on the Free plan, so I could only listen to music on shuffle, and I had a limited number of skips each hour. It basically turned my music listening experience into a slot machine, pulling the lever six times to see if I'd get one of the songs I wanted from each playlist. At some point, I also noticed that playlist shuffle song sequences would repeat, with some songs always coming after other songs in a predictable way. <a href="https://community.spotify.com/t5/Desktop-Windows/Shuffle-mode-playing-the-same-songs-all-the-time/td-p/5280042" rel="external">Others</a> have had this issue too. Even if it was a deliberate design choice, I disagree with it. If shuffle isn't truly random, why label it as shuffle in the first place? I'm sure I would have had a far better experience if I paid for Spotify Premium, but as a high school student with no income, it wasn't possible for me at the time.</p>
+<p>Shortly after I graduated high school, I deleted my Spotify account and decided to start collecting CDs. I wanted to "own" my music, and I personally prefer buying CDs to buying digital albums. I can pick up a CD, read the booklet it (usually) comes with, and use it. It's like functional merch for my favorite artists, and even brand new, it's usually around the same price or only slightly more expensive than the digital version of the album. If you buy the CD used, it might even be cheaper. I've bought CDs for literally 25 cents that I ended up enjoying. I recommend checking library sales, garage sales, thrift stores, and record stores.</p>
+<p>I usually listen to albums that my friends recommended on services like YouTube (Music) and Bandcamp, track my listens with Last.fm, and then buy the CDs of the albums I listened to the most so I could back them up and listen to them in full quality, offline, with no ads. For me, buying a CD motivates me to give the whole album a try, not just the best-known tracks. I sometimes discovered that I liked almost every song on albums I only listened to two or three tracks of on Spotify. Other times, I realized that an album that didn't have many songs I liked when listening to individual songs actually sounded great when it was listened to all together.</p>
+<p>Of course, buying CDs means I spend money anyway. As of right now, base Spotify Premium is $13 per month (I could get a student discount, but if I paid for Premium, I would probably end up doing it long term). The CDs I buy new are usually around $10-12 each, so instead of listening to any of the millions of songs available on Spotify's catalogs, I get to add about 10 new songs to my "catalog" per month. This seems like a bad deal, but I tend to listen to the same albums over and over again, so it's not like I would take advantage of the whole Spotify catalog anyway. Also, if the price increased so much I was no longer willing to pay it, features I care about were moved to higher paid tiers, or I just decided to stop using Spotify, I would have nothing to show for the money I'd spent over the years.</p>
+<h2 id="what-about-music-discovery">What about music discovery?</h2>
+<p>It's true that I discovered some of my current favorite artists through Spotify recommendations and playlists. But more often than not, I would only listen to the few songs that got recommended to me, not the rest of the artist's discography. Since my free plan had limited skips and played plenty of ads, I usually just tried to listen to my favorite songs before I ran out of skips or the ads got too annoying. I didn't want to waste skips or waste time listening to ads just to hear a song that I ended up not liking.</p>
+<p>I bought my first CD ("I Do Not Want What I Haven't Got" by Sinéad O'Connor) at a used item sale right before my first semester began. I recognized the artist's name, and the CD only cost a dollar, so I decided to take a chance on the album and bought it. I didn't have a CD player at my dorm yet, so I looked up the album online. I ended up listening to "Nothing Compares 2 U" on repeat. This song, and album, probably never would have been recommended to me by Spotify's algorithm because I mostly listen to upbeat pop and electronic music.</p>
+<p>Spotify is not the only way to discover music. Many of my all-time favorite albums were recommended to me by my friends. There's no shortage of music critics and articles online who usually have their own recommendations. Sometimes I find interesting new albums by browsing Bandcamp's top sold albums in my favorite genres. Even if you would prefer a personalized music algorithm based on your own listening tastes, Last.fm has worked ok for me and lets me aggregate my listening from many different platforms (There are also self hosted options.)</p>
+<h2 id="buying-cds-vs-digital-albums">Buying CDs vs. digital albums</h2>
+<p>If 99% of the time I listen to my CD backup (through my self hosted streaming or iPod) and not directly from the CD itself, why do I bother buying the CD, which takes up valuable shelf space and can't be delivered instantaneously?</p>
+<p>Services like Bandcamp, Qobuz, and occasionally some artist websites let you buy music files. (I don't count services where you "buy" music that is then locked to their proprietary platform as "buying" music unless you can get the actual files with no DRM. I don't want to rely on a service that could get shut down some day and then lose all of my purchased music.)</p>
+<p>If I chose to buy music files instead of CDs, I could skip the part where I go to a store in person/wait for my CD to get delivered and back up the CD, and skip straight to adding the album to my streaming and iPod. This has some benefits: not needing the cardboard and plastic of the CD and its packaging, saving shelf space, avoiding shipping costs and environmental effects, and less effort on my part.</p>
+<p>In many (not all) cases, the digital album music files cost as much as a brand new CD would, or even slightly more. This may be worth it to you if the files are 24-bit FLACs compared to only 16-bit CD quality, but personally I can't usually tell the difference, and CD quality is good enough for me. More importantly, if I'm already paying $10+, I prefer to have something physical for that money, something I can hold. I only consider buying digital files if the CD has limited availability (especially when combined with high shipping costs from the few available sources) or the digital files are significantly cheaper than the CD.</p>]]></summary>
+  </entry>
+  <entry>
+    <title>Calendar and Tasks Clients on Linux</title>
+    <link href="https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/"/>
+    <id>https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/</id>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <summary><![CDATA[<h2 id="why">Why</h2>
+<p>I've been looking for good to-do &amp; calendar app(s) for over a year now.</p>
+<p>Before I started self hosting my calendar and to-dos, I used Google Calendar and Tasks. These worked perfectly for my use case. I created a different list for each of my classes, and tasks with due dates showed up on my calendar.</p>
+<p>Last year, I decided I wanted to start moving away from exclusively using Google services, and I started using Proton Calendar. Proton didn't have anything like Tasks at the time (although it seems to be <a href="https://protonmail.uservoice.com/forums/284483-proton-mail-calendar/suggestions/7158378-proton-tasks-to-do-list" rel="external">highly requested</a> and <a href="https://proton.me/blog/proton-mail-calendar-roadmap" rel="external">potentially in progress</a>, as of me writing this, they still don't) so I started writing my to-do list on paper, thinking this was a perfect time to start being more analog.</p>
+<p>It didn't work out very well. I'm used to features like recurring tasks and sync over multiple devices, which a paper notebook doesn't have. I would forget to write tasks down and forget to bring my notebook with me. By the end of last semester, I knew I needed to go back to digital tasks.</p>
+<p>On iOS, the Calendar and Reminders apps sync perfectly with CalDAV and have all of the features I want (although subtasks apparently <a href="https://help.nextcloud.com/t/sub-tasks-in-apple-reminders/167668" rel="external">don't work properly</a>, I don't use them.) The UI looks great too, and the apps are intuitive to use.</p>
+<p>When I'm being productive, getting tasks done, I tend to be on my laptop. I also tend to put my phone away so I don't get distracted, so I need access to my tasks and calendar on my laptop too. For a while, I used the Nextcloud web client to manage my tasks and calendar, which works fine and has all of the features I need. However, I personally dislike having extra browser tabs open, and the website can take a while to load, so I decided to look for Calendar and Tasks clients.</p>
+<h2 id="what-i-wanted">What I Wanted</h2>
+<ul>
+<li>Loads reasonably fast</li>
+<li>Looks nice</li>
+<li>Both calendars and tasks in one application</li>
+<li>(Optional but highly preferred) "All tasks" view (or equivalent) groups tasks by which list they're in, and labels this information prominently. Extra points for also color coding tasks based on list.</li>
+<li>(Probably impossible to find) A calendar/tasks widget to put on my desktop so I can view upcoming events easily</li>
+</ul>
+<h2 id="the-search-begins">The Search Begins!</h2>
+<h3 id="korganizer-kontact"><a href="https://apps.kde.org/korganizer/" rel="external">KOrganizer</a>/<a href="https://apps.kde.org/kontact/" rel="external">Kontact</a></h3>
+<p>I use KDE Plasma, so this was already installed on my laptop. KOrganizer has calendar and to-do lists, while Kontact (which incorporates KOrganizer) adds mail, contacts, and RSS feeds, basically making it a personal start page. Since I don't need the extra features of Kontact, I'll focus on KOrganizer, though I will mention that somehow the colors I set for different calendars on Nextcloud worked automatically on KOrganizer but not Kontact.</p>
+<p>I was able to add my calendar account pretty easily, and both my calendars and tasks lists synced over. It doesn't have the tasks view I wanted, and it doesn't look as modern as some of the other options on this list, but it works and satisfies most of my requirements.</p>
+<h3 id="merkuro"><a href="https://apps.kde.org/merkuro/" rel="external">Merkuro</a></h3>
+<p>Merkuro (formerly Kalendar?) is also by KDE. It has similar functions to KOrganizer, but with a refreshed UI.</p>
+<p>I reeeeally wanted this to work! I installed it, my calendar and tasks were already synced (probably because I set up my Nextcloud account with KOrganizer) and I immediately loved how the UI looked. Tasks still weren't grouped the way I wanted (at least by default; it's possible there was a setting somewhere I didn't see) but they were at least color coded by list.</p>
+<p>Unfortunately, when I tried to make a task, the application crashed. I tried reopening and making another task, and the same thing happened. I uninstalled and reinstalled, same issue still. Over the half dozen times I tried to make a task while troubleshooting, I only got to the task creation screen once, and I was so surprised I exited out by accident. I never made it back.</p>
+<p>I probably could have gone further in finding the exact error that occurred and searching for a fix online, but I decided to move on.</p>
+<h3 id="gnome-calendar"><a href="https://apps.gnome.org/Calendar/" rel="external">GNOME Calendar</a></h3>
+<p>As far as I can tell, this one is only a calendar, no to-do lists. I initially installed it via the Fedora repo, and while the app looked really nice, I couldn't figure out how to add my Nextcloud account. Clicking on any of the settings options did nothing. I gave up and uninstalled it.</p>
+<p>I later went back and tried the Flatpak version. I'm not sure what I did between my first try and my second one, but my calendar was actually synced already. The settings options still did nothing.</p>
+<p>Unfortunately, not having the due dates of my to-do items on my calendar is a deal breaker. The UI of this calendar is really nice though.</p>
+<h3 id="thunderbird"><a href="https://www.thunderbird.net/" rel="external">Thunderbird</a></h3>
+<p>Thunderbird is best known as an email client, but it also has calendar and task features. Since I didn't want to use Thunderbird for emails, I found the setup to be slightly confusing. I eventually found out how to add my Nextcloud account for calendars and tasks only, and everything synced over well.</p>
+<p>I only used this briefly, so I don't remember my exact experiences well. I didn't like the tasks UI and didn't need the email client aspect, so I moved on.</p>
+<h3 id="evolution"><a href="https://gitlab.gnome.org/GNOME/evolution" rel="external">Evolution</a></h3>
+<p>Similar to Thunderbird, this is also an email client with calendars and tasks. I backed out of the email setup, then started adding my calendars and tasks lists. I say "started" because I seemingly had to add them one at a time. It's possible that there was an option to add every calendar and list at once, but it wasn't obvious to me anywhere on the UI or during the calendar adding process.</p>
+<p>Each time I wanted to add a new calendar or task list, I would have to paste my Nextcloud URL, type in my long username and password, and then manually select a single calendar or list. This wasn't so bad for my calendars, because I only have two, but I have a task list for every class I'm taking and a few extras.</p>
+<p>Halfway through adding my lists, I decided to give up so I could finish tasks on them instead. (Or procrastinate by writing this)</p>
+<h3 id="cfait"><a href="https://codeberg.org/trougnouf/cfait" rel="external">cfait</a></h3>
+<p>This one is interesting because it offers both a TUI and a GUI. It's also only for tasks, so I would need a separate app for viewing my calendar.</p>
+<p>I installed it through cargo and tried both the TUI and GUI. After logging in to my Nextcloud, I spent some time on the TUI trying to get used to the keybinds. While I'm fine with using the terminal for some tasks, and even prefer it in some cases, I'm just too used to clicking on to-do boxes. Given a little more time, I probably could have adapted to the TUI, but I really wanted to try the GUI.</p>
+<p>The GUI was almost perfect. The task view color codes tasks based on which list they're from, and the UI looks great with many color scheme options. There was no way to maximize the window, though. Even when I increased the size of the window to fill my monitor screen, it went back to the default size the next time the application was reopened.</p>
+<p>I really want my calendar and tasks to be accessible from the same application, but if I changed my mind, I might come back to this.</p>
+<h2 id="the-winner-is">The Winner Is...</h2>
+<p>... none of the above?</p>
+<p>In the end, I went back to using Nextcloud Web's Calendar and Tasks pages. UI and reliability matter the most to me, and although KOrganizer came close, the way it showed task lists made it difficult for me to tell which task belonged to which list at a glance.</p>
+<p>I might look back into Merkuro in the future. Hopefully it works by then, or I at least have more time to troubleshoot.</p>
+<p>I'm also sort of tempted to write my own client, though I haven't looked into how CalDAV works at all. Maybe next break!</p>
+<p>If anyone has any other recommendations, please reach out to me on Matrix!</p>]]></summary>
+  </entry>
+  <entry>
+    <title>reading list</title>
+    <link href="https://adhithirumala.com/blog/reading-list/"/>
+    <id>https://adhithirumala.com/blog/reading-list/</id>
+    <updated>2026-01-06T00:00:00+00:00</updated>
+    <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
+<p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
+<h2 id="articles">articles</h2>
+<ul>
+<li><a href="https://pthorpe92.dev/intro/my-story/" rel="external">How I got here - Preston Thorpe</a> - this guy is crazy cracked. he works on one of my favorite oss projects (<a href="https://adhithirumala.com/blog/reading-list/turso.tech">turso</a>). he likes rust and linux and tiling windows managers. and he does it from prison. absurdly inspirational story.</li>
+<li><a href="https://www.lurklurk.org/linkers/linkers.html" rel="external">beginner's guide to linkers</a> - explanation of how linkers work across systems, including libraries, shared libraries, dynamic libraries, and more.</li>
+<li><a href="https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html" rel="external">A beginners' guide <em>away</em> from <code>scanf()</code></a> - i don't use c a ton, this blog is actually just about many reasons to use rust, but still, good to know.</li>
+<li><a href="https://www.joelonsoftware.com/2001/12/11/back-to-basics/" rel="external">Back to Basics - Joel Spolsky</a> - good mindset to have about software. <a href="https://en.wikipedia.org/wiki/Wirth%27s_law" rel="external">do your part to not invalidate the hard work of our friends in hardware</a></li>
+<li><a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" rel="external">The Law of Leaky Abstractions - Joel Spolsky</a> - rust mindset</li>
+<li><a href="https://vitalik.eth.limo/general/2025/10/05/memory13.html" rel="external">Memory access is O(N^[1/3] - Vitalik Buterin)</a> - what the title says</li>
+<li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/" rel="external">Don't Call Yourself A Programmer, And Other Career Advice - Patrick McKenzie</a> - really really good reflection on what it actually means to work with software</li>
+<li><a href="https://blog.cloudflare.com/5-december-2025-outage/" rel="external">Cloudflare outage on December 5, 2025</a> - i really like how detailed the cloudflare post-mortems are</li>
+</ul>
+<h2 id="talks-interviews-podcasts">talks/interviews/podcasts</h2>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/@janestreet/videos" rel="external">all jane street technical talks and podcasts on their youtube</a> - can't link all of them, but they're all phenomenal. favorites include the gpu performance one, the UV one (which introduced me to the software), and the chris lattner interview on programming languages for machine learning.</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=wRsBQkP2rPY&amp;list=PL25tdRgIAXStcnLCeE_GUTjbTNxFaDnBJ&amp;index=2" rel="external">American Express: Elevating Serverless Platforms with Wasm Components</a> - to be honest, i have minimal idea how wasm works. i knew that figma used it to make the in-browser tool really fast, so i wanted to know who else actually used it. mfw when an old credit card company makes a serverless runtime in wasm such that anyone can write code in any language in the backend and have it interface with core libraries like auth. didn't expect amex to do this, but very cool to see that they did.</p>
+</li>
+<li>
+<p><a href="https://corecursive.com/021-gods-programming-language-with-philip-wadler/" rel="external">Phillip Wadler - God's Programming Language</a> - lambda calculus twk, programming seems like a fake and arbitrary abstraction over the world, discussing how to come about it from first principles is cool</p>
+</li>
+</ul>
+<h2 id="textbooks-books">textbooks/books</h2>
+<ul>
+<li><a href="https://aosabook.org/en/v1/llvm.html" rel="external">The Architecture of Open Source Applications (Volume 1) LLVM - Chris Lattner</a> - i like compilers, i like (former) illini, what more is there to say? no better person to describe llvm than the creator</li>
+<li><a href="http://norasandler.com/book/" rel="external">Writing a C Compiler - Nora Sandler</a> - working through it right now, solid presentation of theory combined with practice</li>
+<li><a href="https://books.google.com/books/about/SQLite_Database_System_Design_and_Implem.html?id=OEJ1CQAAQBAJ" rel="external">SQLite Database System Design and Implementation - Sibsankar Haldar</a> - wanted to start contributing to Turso, decided to read this first</li>
+</ul>
+<h1 id="to-read-list">to read list</h1>
+<p>so many things to read, so little time.</p>
+<h2 id="articles-1">articles</h2>
+<p><a href="https://www.airs.com/blog/archives/38" rel="external">20 part essay on linkers - Ian Lance Taylor</a> - probably should figure out how they work</p>]]></summary>
+  </entry>
+  <entry>
+    <title>reading list</title>
+    <link href="https://adhithirumala.com/blog/reading-list/"/>
+    <id>https://adhithirumala.com/blog/reading-list/</id>
+    <updated>2026-01-06T00:00:00+00:00</updated>
+    <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
+<p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
+<h2 id="articles">articles</h2>
+<ul>
+<li><a href="https://pthorpe92.dev/intro/my-story/" rel="external">How I got here - Preston Thorpe</a> - this guy is crazy cracked. he works on one of my favorite oss projects (<a href="https://adhithirumala.com/blog/reading-list/turso.tech">turso</a>). he likes rust and linux and tiling windows managers. and he does it from prison. absurdly inspirational story.</li>
+<li><a href="https://www.lurklurk.org/linkers/linkers.html" rel="external">beginner's guide to linkers</a> - explanation of how linkers work across systems, including libraries, shared libraries, dynamic libraries, and more.</li>
+<li><a href="https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html" rel="external">A beginners' guide <em>away</em> from <code>scanf()</code></a> - i don't use c a ton, this blog is actually just about many reasons to use rust, but still, good to know.</li>
+<li><a href="https://www.joelonsoftware.com/2001/12/11/back-to-basics/" rel="external">Back to Basics - Joel Spolsky</a> - good mindset to have about software. <a href="https://en.wikipedia.org/wiki/Wirth%27s_law" rel="external">do your part to not invalidate the hard work of our friends in hardware</a></li>
+<li><a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" rel="external">The Law of Leaky Abstractions - Joel Spolsky</a> - rust mindset</li>
+<li><a href="https://vitalik.eth.limo/general/2025/10/05/memory13.html" rel="external">Memory access is O(N^[1/3] - Vitalik Buterin)</a> - what the title says</li>
+<li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/" rel="external">Don't Call Yourself A Programmer, And Other Career Advice - Patrick McKenzie</a> - really really good reflection on what it actually means to work with software</li>
+<li><a href="https://blog.cloudflare.com/5-december-2025-outage/" rel="external">Cloudflare outage on December 5, 2025</a> - i really like how detailed the cloudflare post-mortems are</li>
+</ul>
+<h2 id="talks-interviews-podcasts">talks/interviews/podcasts</h2>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/@janestreet/videos" rel="external">all jane street technical talks and podcasts on their youtube</a> - can't link all of them, but they're all phenomenal. favorites include the gpu performance one, the UV one (which introduced me to the software), and the chris lattner interview on programming languages for machine learning.</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=wRsBQkP2rPY&amp;list=PL25tdRgIAXStcnLCeE_GUTjbTNxFaDnBJ&amp;index=2" rel="external">American Express: Elevating Serverless Platforms with Wasm Components</a> - to be honest, i have minimal idea how wasm works. i knew that figma used it to make the in-browser tool really fast, so i wanted to know who else actually used it. mfw when an old credit card company makes a serverless runtime in wasm such that anyone can write code in any language in the backend and have it interface with core libraries like auth. didn't expect amex to do this, but very cool to see that they did.</p>
+</li>
+<li>
+<p><a href="https://corecursive.com/021-gods-programming-language-with-philip-wadler/" rel="external">Phillip Wadler - God's Programming Language</a> - lambda calculus twk, programming seems like a fake and arbitrary abstraction over the world, discussing how to come about it from first principles is cool</p>
+</li>
+</ul>
+<h2 id="textbooks-books">textbooks/books</h2>
+<ul>
+<li><a href="https://aosabook.org/en/v1/llvm.html" rel="external">The Architecture of Open Source Applications (Volume 1) LLVM - Chris Lattner</a> - i like compilers, i like (former) illini, what more is there to say? no better person to describe llvm than the creator</li>
+<li><a href="http://norasandler.com/book/" rel="external">Writing a C Compiler - Nora Sandler</a> - working through it right now, solid presentation of theory combined with practice</li>
+<li><a href="https://books.google.com/books/about/SQLite_Database_System_Design_and_Implem.html?id=OEJ1CQAAQBAJ" rel="external">SQLite Database System Design and Implementation - Sibsankar Haldar</a> - wanted to start contributing to Turso, decided to read this first</li>
+</ul>
+<h1 id="to-read-list">to read list</h1>
+<p>so many things to read, so little time.</p>
+<h2 id="articles-1">articles</h2>
+<p><a href="https://www.airs.com/blog/archives/38" rel="external">20 part essay on linkers - Ian Lance Taylor</a> - probably should figure out how they work</p>]]></summary>
+  </entry>
+  <entry>
+    <title>reading list</title>
+    <link href="https://adhithirumala.com/blog/reading-list/"/>
+    <id>https://adhithirumala.com/blog/reading-list/</id>
+    <updated>2026-01-06T00:00:00+00:00</updated>
+    <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
+<p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
+<h2 id="articles">articles</h2>
+<ul>
+<li><a href="https://pthorpe92.dev/intro/my-story/" rel="external">How I got here - Preston Thorpe</a> - this guy is crazy cracked. he works on one of my favorite oss projects (<a href="https://adhithirumala.com/blog/reading-list/turso.tech">turso</a>). he likes rust and linux and tiling windows managers. and he does it from prison. absurdly inspirational story.</li>
+<li><a href="https://www.lurklurk.org/linkers/linkers.html" rel="external">beginner's guide to linkers</a> - explanation of how linkers work across systems, including libraries, shared libraries, dynamic libraries, and more.</li>
+<li><a href="https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html" rel="external">A beginners' guide <em>away</em> from <code>scanf()</code></a> - i don't use c a ton, this blog is actually just about many reasons to use rust, but still, good to know.</li>
+<li><a href="https://www.joelonsoftware.com/2001/12/11/back-to-basics/" rel="external">Back to Basics - Joel Spolsky</a> - good mindset to have about software. <a href="https://en.wikipedia.org/wiki/Wirth%27s_law" rel="external">do your part to not invalidate the hard work of our friends in hardware</a></li>
+<li><a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" rel="external">The Law of Leaky Abstractions - Joel Spolsky</a> - rust mindset</li>
+<li><a href="https://vitalik.eth.limo/general/2025/10/05/memory13.html" rel="external">Memory access is O(N^[1/3] - Vitalik Buterin)</a> - what the title says</li>
+<li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/" rel="external">Don't Call Yourself A Programmer, And Other Career Advice - Patrick McKenzie</a> - really really good reflection on what it actually means to work with software</li>
+<li><a href="https://blog.cloudflare.com/5-december-2025-outage/" rel="external">Cloudflare outage on December 5, 2025</a> - i really like how detailed the cloudflare post-mortems are</li>
+</ul>
+<h2 id="talks-interviews-podcasts">talks/interviews/podcasts</h2>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/@janestreet/videos" rel="external">all jane street technical talks and podcasts on their youtube</a> - can't link all of them, but they're all phenomenal. favorites include the gpu performance one, the UV one (which introduced me to the software), and the chris lattner interview on programming languages for machine learning.</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=wRsBQkP2rPY&amp;list=PL25tdRgIAXStcnLCeE_GUTjbTNxFaDnBJ&amp;index=2" rel="external">American Express: Elevating Serverless Platforms with Wasm Components</a> - to be honest, i have minimal idea how wasm works. i knew that figma used it to make the in-browser tool really fast, so i wanted to know who else actually used it. mfw when an old credit card company makes a serverless runtime in wasm such that anyone can write code in any language in the backend and have it interface with core libraries like auth. didn't expect amex to do this, but very cool to see that they did.</p>
+</li>
+<li>
+<p><a href="https://corecursive.com/021-gods-programming-language-with-philip-wadler/" rel="external">Phillip Wadler - God's Programming Language</a> - lambda calculus twk, programming seems like a fake and arbitrary abstraction over the world, discussing how to come about it from first principles is cool</p>
+</li>
+</ul>
+<h2 id="textbooks-books">textbooks/books</h2>
+<ul>
+<li><a href="https://aosabook.org/en/v1/llvm.html" rel="external">The Architecture of Open Source Applications (Volume 1) LLVM - Chris Lattner</a> - i like compilers, i like (former) illini, what more is there to say? no better person to describe llvm than the creator</li>
+<li><a href="http://norasandler.com/book/" rel="external">Writing a C Compiler - Nora Sandler</a> - working through it right now, solid presentation of theory combined with practice</li>
+<li><a href="https://books.google.com/books/about/SQLite_Database_System_Design_and_Implem.html?id=OEJ1CQAAQBAJ" rel="external">SQLite Database System Design and Implementation - Sibsankar Haldar</a> - wanted to start contributing to Turso, decided to read this first</li>
+</ul>
+<h1 id="to-read-list">to read list</h1>
+<p>so many things to read, so little time.</p>
+<h2 id="articles-1">articles</h2>
+<p><a href="https://www.airs.com/blog/archives/38" rel="external">20 part essay on linkers - Ian Lance Taylor</a> - probably should figure out how they work</p>]]></summary>
+  </entry>
+</feed>
