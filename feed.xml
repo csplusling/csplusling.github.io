@@ -3,7 +3,7 @@
   <title>CS+Ling Webring</title>
   <link href="https://csplusling.github.io/feed.xml" rel="self"/>
   <link href="https://csplusling.github.io/"/>
-  <updated>2026-04-09T02:35:55.936911+00:00</updated>
+  <updated>2026-04-10T01:33:37.425453+00:00</updated>
   <id>https://csplusling.github.io/</id>
   <author>
     <name>CS+Ling Webring</name>
@@ -179,47 +179,6 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
 <p>I might look back into Merkuro in the future. Hopefully it works by then, or I at least have more time to troubleshoot.</p>
 <p>I'm also sort of tempted to write my own client, though I haven't looked into how CalDAV works at all. Maybe next break!</p>
 <p>If anyone has any other recommendations, please reach out to me on Matrix!</p>]]></summary>
-  </entry>
-  <entry>
-    <title>reading list</title>
-    <link href="https://adhithirumala.com/blog/reading-list/"/>
-    <id>https://adhithirumala.com/blog/reading-list/</id>
-    <updated>2026-01-06T00:00:00+00:00</updated>
-    <summary><![CDATA[<h1 id="have-read-list">have read list</h1>
-<p>lots of cool technical blogs, talks, and textbooks that i've read that i like. here's a list (in no specific order). this gets updated as i either read things or want to read things.</p>
-<h2 id="articles">articles</h2>
-<ul>
-<li><a href="https://pthorpe92.dev/intro/my-story/" rel="external">How I got here - Preston Thorpe</a> - this guy is crazy cracked. he works on one of my favorite oss projects (<a href="https://adhithirumala.com/blog/reading-list/turso.tech">turso</a>). he likes rust and linux and tiling windows managers. and he does it from prison. absurdly inspirational story.</li>
-<li><a href="https://www.lurklurk.org/linkers/linkers.html" rel="external">beginner's guide to linkers</a> - explanation of how linkers work across systems, including libraries, shared libraries, dynamic libraries, and more.</li>
-<li><a href="https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html" rel="external">A beginners' guide <em>away</em> from <code>scanf()</code></a> - i don't use c a ton, this blog is actually just about many reasons to use rust, but still, good to know.</li>
-<li><a href="https://www.joelonsoftware.com/2001/12/11/back-to-basics/" rel="external">Back to Basics - Joel Spolsky</a> - good mindset to have about software. <a href="https://en.wikipedia.org/wiki/Wirth%27s_law" rel="external">do your part to not invalidate the hard work of our friends in hardware</a></li>
-<li><a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" rel="external">The Law of Leaky Abstractions - Joel Spolsky</a> - rust mindset</li>
-<li><a href="https://vitalik.eth.limo/general/2025/10/05/memory13.html" rel="external">Memory access is O(N^[1/3] - Vitalik Buterin)</a> - what the title says</li>
-<li><a href="https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/" rel="external">Don't Call Yourself A Programmer, And Other Career Advice - Patrick McKenzie</a> - really really good reflection on what it actually means to work with software</li>
-<li><a href="https://blog.cloudflare.com/5-december-2025-outage/" rel="external">Cloudflare outage on December 5, 2025</a> - i really like how detailed the cloudflare post-mortems are</li>
-</ul>
-<h2 id="talks-interviews-podcasts">talks/interviews/podcasts</h2>
-<ul>
-<li>
-<p><a href="https://www.youtube.com/@janestreet/videos" rel="external">all jane street technical talks and podcasts on their youtube</a> - can't link all of them, but they're all phenomenal. favorites include the gpu performance one, the UV one (which introduced me to the software), and the chris lattner interview on programming languages for machine learning.</p>
-</li>
-<li>
-<p><a href="https://www.youtube.com/watch?v=wRsBQkP2rPY&amp;list=PL25tdRgIAXStcnLCeE_GUTjbTNxFaDnBJ&amp;index=2" rel="external">American Express: Elevating Serverless Platforms with Wasm Components</a> - to be honest, i have minimal idea how wasm works. i knew that figma used it to make the in-browser tool really fast, so i wanted to know who else actually used it. mfw when an old credit card company makes a serverless runtime in wasm such that anyone can write code in any language in the backend and have it interface with core libraries like auth. didn't expect amex to do this, but very cool to see that they did.</p>
-</li>
-<li>
-<p><a href="https://corecursive.com/021-gods-programming-language-with-philip-wadler/" rel="external">Phillip Wadler - God's Programming Language</a> - lambda calculus twk, programming seems like a fake and arbitrary abstraction over the world, discussing how to come about it from first principles is cool</p>
-</li>
-</ul>
-<h2 id="textbooks-books">textbooks/books</h2>
-<ul>
-<li><a href="https://aosabook.org/en/v1/llvm.html" rel="external">The Architecture of Open Source Applications (Volume 1) LLVM - Chris Lattner</a> - i like compilers, i like (former) illini, what more is there to say? no better person to describe llvm than the creator</li>
-<li><a href="http://norasandler.com/book/" rel="external">Writing a C Compiler - Nora Sandler</a> - working through it right now, solid presentation of theory combined with practice</li>
-<li><a href="https://books.google.com/books/about/SQLite_Database_System_Design_and_Implem.html?id=OEJ1CQAAQBAJ" rel="external">SQLite Database System Design and Implementation - Sibsankar Haldar</a> - wanted to start contributing to Turso, decided to read this first</li>
-</ul>
-<h1 id="to-read-list">to read list</h1>
-<p>so many things to read, so little time.</p>
-<h2 id="articles-1">articles</h2>
-<p><a href="https://www.airs.com/blog/archives/38" rel="external">20 part essay on linkers - Ian Lance Taylor</a> - probably should figure out how they work</p>]]></summary>
   </entry>
   <entry>
     <title>reading list</title>
