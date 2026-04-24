@@ -3,7 +3,7 @@
   <title>CS+Ling Webring</title>
   <link href="https://csplusling.github.io/feed.xml" rel="self"/>
   <link href="https://csplusling.github.io/"/>
-  <updated>2026-04-23T02:51:56.957342+00:00</updated>
+  <updated>2026-04-24T02:52:56.933231+00:00</updated>
   <id>https://csplusling.github.io/</id>
   <author>
     <name>CS+Ling Webring</name>
@@ -82,7 +82,6 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
     <id>https://sriya-g.github.io/blog/cool-stuff-ongoing/</id>
     <updated>2026-02-16T00:00:00+00:00</updated>
     <summary><![CDATA[<h2 id="blog-posts">Blog Posts</h2>
-<h3 id="technology">Technology</h3>
 <ul>
 <li><a href="https://aboutfeeds.com/" rel="external">About Feeds</a>
 <ul>
@@ -92,19 +91,15 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
 </li>
 <li><a href="https://stephango.com/file-over-app" rel="external">File over app</a>
 <ul>
-<li>Why I prefer applications that trust me to handle my own files (and are fine with me departing with said files, if I want to try a different service)</li>
+<li>Why I prefer applications that trust me to handle my own files (and are fine with me departing with said files, if I want to try a different app)</li>
 </ul>
 </li>
-<li><a href="https://drmollytov.smol.pub/2026-02-16" rel="external">what does "learn to use a computer" mean, anyway?</a>
-<ul>
-<li>"Handing our kids iPads or Chromebooks is not teaching them to be 'computer literate,' except in the worst end-user, raw-materials-for-data-extraction, corporate-drone sense."</li>
-<li>Related: <a href="https://riz0me.bearblog.dev/2026/02/14/normal-people-dont-use-the-internet/" rel="external">normal people don't use the internet</a></li>
-<li>Related to the above: it's not true that all Gen Z or Gen Alpha or whatever have no idea how computers work or how to make a website - there will probably always be enthusiasts! The difference is that the average person who does <strong>not</strong> want to be an enthusiast (which is a valid position; none of this stuff existed 50 years ago and no one should be forced to care about it) is primed to use services that take away their digital autonomy, and these services make moving away require technical enthusiasm (because they reeeeally don't want to lose users.)</li>
 </ul>
-</li>
-<li><a href="https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/" rel="external">It's rude to show AI output to people</a>
+<h2 id="videos">Videos</h2>
 <ul>
-<li>One thing: a lot of AI output is unprovoked (in terms of AI slop that gets posted by bots for various reasons) and should be ignored completely. This is great etiquette for AI slop that comes from known humans though.</li>
+<li><a href="https://www.youtube.com/watch?v=R-edYoZZosg" rel="external">How to do anything (without AI)</a>
+<ul>
+<li>Very motivational video, inspired me to want to learn about new things. This channel has very high-quality videos.</li>
 </ul>
 </li>
 </ul>]]></summary>
