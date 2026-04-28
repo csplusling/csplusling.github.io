@@ -3,11 +3,27 @@
   <title>CS+Ling Webring</title>
   <link href="https://csplusling.github.io/feed.xml" rel="self"/>
   <link href="https://csplusling.github.io/"/>
-  <updated>2026-04-27T03:23:32.940761+00:00</updated>
+  <updated>2026-04-28T03:30:09.078841+00:00</updated>
   <id>https://csplusling.github.io/</id>
   <author>
     <name>CS+Ling Webring</name>
   </author>
+  <entry>
+    <title>Repair, Revival</title>
+    <link href="https://sriya-g.github.io/blog/repair-revival/"/>
+    <id>https://sriya-g.github.io/blog/repair-revival/</id>
+    <updated>2026-04-27T00:00:00+00:00</updated>
+    <summary><![CDATA[<p>Almost two years ago, I was in the market for a new MP3 player after I stopped using Spotify. I wanted a device separate from my phone to listen to music on; VLC was fine, but I thought not having music access 24/7 would make me appreciate it more. Also, I'm clumsy and tend to accidentally fast forward/skip songs when I use touchscreen controls, so I wanted something with physical buttons.</p>
+<p>With my budget, I could afford one of the various generic players sold on Amazon. The UI looked uninspiring, and I was concerned about build quality, but I could afford them and they looked portable. If I remember correctly, prices for the most popular models tended to be around $30-40.</p>
+<p>Around this time, I also watched a few videos of iPod repairs, which reminded me that we had a gen 4 iPod sitting in a junk drawer at home for over a decade. Over the years, I tried to charge it a few times, but it showed an error screen because of the dead hard drive. In my most recent attempt, it didn't turn on at all because the battery was completely dead. For about $60, I could buy a new battery, CF to IDE board and SD to CF converter to replace the old drive and battery, as well as the tools to open up the iPod.</p>
+<p>(If you want to flash mod your iPod, 1. make sure to read relevant info about your iPod model!!!! and 2. skip the cheap SD to CF converters and just buy the iFlash SD to CF converter or another one that is known to work <strong>consistently</strong>. None of the tips I found online could make the cheap one I bought work, so I ended up wasting $10. In fact, you may be better off just buying the dedicated iFlash converter board if one exists for your iPod model.)</p>
+<p>Yes, I spent $20ish extra on parts and tools than I would if I bought a new MP3 player, but the iPod I have originally cost hundreds of dollars and has a level of quality and polish that isn't present in a $30 generic player. Not to mention it's repairable and (especially if you have a 5th gen or newer iPod Classic) there are plenty of parts and even upgrades available. I also kept this iPod out of a landfill, which I would value at least $10.</p>
+<p>It's also not a "scary" repair at all. If all you're replacing is storage and battery, you don't need a soldering iron or even a screwdriver, just a pry tool to open the back. I had zero previous experience repairing anything and after watching a video on opening the iPod (and referring to iFixit when needed) I was basically all good.</p>
+<h2 id="why-bring-any-of-this-up">Why bring any of this up?</h2>
+<p>I've seen a lot of articles recently about people my age embracing old technology like CDs, vinyl records, Walkmans, and iPods, in addition to non-music technology like retro game consoles, film, instant, and digital cameras, and even flip phones.</p>
+<p>As someone who's been interested in these things for years, it's nice to see them catch on so I have more people to talk to. I wanted to share my experience because I hope people who are interested in old technology try to keep it out of the landfill.</p>
+<p>If you're interested in CD players and want a portable player, try going to a thrift store and looking for used ones before you buy a brand new one. If you own some broken retrotech at home, why not try to repair it before buying a new one? At worst, you'll learn some things before buying the new one. Not only will it be more "authentic" to the time period (if you care about that; it's totally fine if you don't!) but keeping these old things in use keeps them out of the trash.</p>]]></summary>
+  </entry>
   <entry>
     <title>Feed readers are awesome!</title>
     <link href="https://sriya-g.github.io/blog/feed-readers-are-awesome/"/>
@@ -122,58 +138,6 @@ What my YouTube UI looks like now. Notice how there is nothing to look at or cli
 <p>Services like Bandcamp, Qobuz, and occasionally some artist websites let you buy music files. (I don't count services where you "buy" music that is then locked to their proprietary platform as "buying" music unless you can get the actual files with no DRM. I don't want to rely on a service that could get shut down some day and then lose all of my purchased music.)</p>
 <p>If I chose to buy music files instead of CDs, I could skip the part where I go to a store in person/wait for my CD to get delivered and back up the CD, and skip straight to adding the album to my streaming and iPod. This has some benefits: not needing the cardboard and plastic of the CD and its packaging, saving shelf space, avoiding shipping costs and environmental effects, and less effort on my part.</p>
 <p>In many (not all) cases, the digital album music files cost as much as a brand new CD would, or even slightly more. This may be worth it to you if the files are 24-bit FLACs compared to only 16-bit CD quality, but personally I can't usually tell the difference, and CD quality is good enough for me. More importantly, if I'm already paying $10+, I prefer to have something physical for that money, something I can hold. I only consider buying digital files if the CD has limited availability (especially when combined with high shipping costs from the few available sources) or the digital files are significantly cheaper than the CD.</p>]]></summary>
-  </entry>
-  <entry>
-    <title>Calendar and Tasks Clients on Linux</title>
-    <link href="https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/"/>
-    <id>https://sriya-g.github.io/blog/calendar-and-tasks-clients-on-linux/</id>
-    <updated>2026-02-04T00:00:00+00:00</updated>
-    <summary><![CDATA[<h2 id="why">Why</h2>
-<p>I've been looking for good to-do &amp; calendar app(s) for over a year now.</p>
-<p>Before I started self hosting my calendar and to-dos, I used Google Calendar and Tasks. These worked perfectly for my use case. I created a different list for each of my classes, and tasks with due dates showed up on my calendar.</p>
-<p>Last year, I decided I wanted to start moving away from exclusively using Google services, and I started using Proton Calendar. Proton didn't have anything like Tasks at the time (although it seems to be <a href="https://protonmail.uservoice.com/forums/284483-proton-mail-calendar/suggestions/7158378-proton-tasks-to-do-list" rel="external">highly requested</a> and <a href="https://proton.me/blog/proton-mail-calendar-roadmap" rel="external">potentially in progress</a>, as of me writing this, they still don't) so I started writing my to-do list on paper, thinking this was a perfect time to start being more analog.</p>
-<p>It didn't work out very well. I'm used to features like recurring tasks and sync over multiple devices, which a paper notebook doesn't have. I would forget to write tasks down and forget to bring my notebook with me. By the end of last semester, I knew I needed to go back to digital tasks.</p>
-<p>On iOS, the Calendar and Reminders apps sync perfectly with CalDAV and have all of the features I want (although subtasks apparently <a href="https://help.nextcloud.com/t/sub-tasks-in-apple-reminders/167668" rel="external">don't work properly</a>, I don't use them.) The UI looks great too, and the apps are intuitive to use.</p>
-<p>When I'm being productive, getting tasks done, I tend to be on my laptop. I also tend to put my phone away so I don't get distracted, so I need access to my tasks and calendar on my laptop too. For a while, I used the Nextcloud web client to manage my tasks and calendar, which works fine and has all of the features I need. However, I personally dislike having extra browser tabs open, and the website can take a while to load, so I decided to look for Calendar and Tasks clients.</p>
-<h2 id="what-i-wanted">What I Wanted</h2>
-<ul>
-<li>Loads reasonably fast</li>
-<li>Looks nice</li>
-<li>Both calendars and tasks in one application</li>
-<li>(Optional but highly preferred) "All tasks" view (or equivalent) groups tasks by which list they're in, and labels this information prominently. Extra points for also color coding tasks based on list.</li>
-<li>(Probably impossible to find) A calendar/tasks widget to put on my desktop so I can view upcoming events easily</li>
-</ul>
-<h2 id="the-search-begins">The Search Begins!</h2>
-<h3 id="korganizer-kontact"><a href="https://apps.kde.org/korganizer/" rel="external">KOrganizer</a>/<a href="https://apps.kde.org/kontact/" rel="external">Kontact</a></h3>
-<p>I use KDE Plasma, so this was already installed on my laptop. KOrganizer has calendar and to-do lists, while Kontact (which incorporates KOrganizer) adds mail, contacts, and RSS feeds, basically making it a personal start page. Since I don't need the extra features of Kontact, I'll focus on KOrganizer, though I will mention that somehow the colors I set for different calendars on Nextcloud worked automatically on KOrganizer but not Kontact.</p>
-<p>I was able to add my calendar account pretty easily, and both my calendars and tasks lists synced over. It doesn't have the tasks view I wanted, and it doesn't look as modern as some of the other options on this list, but it works and satisfies most of my requirements.</p>
-<h3 id="merkuro"><a href="https://apps.kde.org/merkuro/" rel="external">Merkuro</a></h3>
-<p>Merkuro (formerly Kalendar?) is also by KDE. It has similar functions to KOrganizer, but with a refreshed UI.</p>
-<p>I reeeeally wanted this to work! I installed it, my calendar and tasks were already synced (probably because I set up my Nextcloud account with KOrganizer) and I immediately loved how the UI looked. Tasks still weren't grouped the way I wanted (at least by default; it's possible there was a setting somewhere I didn't see) but they were at least color coded by list.</p>
-<p>Unfortunately, when I tried to make a task, the application crashed. I tried reopening and making another task, and the same thing happened. I uninstalled and reinstalled, same issue still. Over the half dozen times I tried to make a task while troubleshooting, I only got to the task creation screen once, and I was so surprised I exited out by accident. I never made it back.</p>
-<p>I probably could have gone further in finding the exact error that occurred and searching for a fix online, but I decided to move on.</p>
-<h3 id="gnome-calendar"><a href="https://apps.gnome.org/Calendar/" rel="external">GNOME Calendar</a></h3>
-<p>As far as I can tell, this one is only a calendar, no to-do lists. I initially installed it via the Fedora repo, and while the app looked really nice, I couldn't figure out how to add my Nextcloud account. Clicking on any of the settings options did nothing. I gave up and uninstalled it.</p>
-<p>I later went back and tried the Flatpak version. I'm not sure what I did between my first try and my second one, but my calendar was actually synced already. The settings options still did nothing.</p>
-<p>Unfortunately, not having the due dates of my to-do items on my calendar is a deal breaker. The UI of this calendar is really nice though.</p>
-<h3 id="thunderbird"><a href="https://www.thunderbird.net/" rel="external">Thunderbird</a></h3>
-<p>Thunderbird is best known as an email client, but it also has calendar and task features. Since I didn't want to use Thunderbird for emails, I found the setup to be slightly confusing. I eventually found out how to add my Nextcloud account for calendars and tasks only, and everything synced over well.</p>
-<p>I only used this briefly, so I don't remember my exact experiences well. I didn't like the tasks UI and didn't need the email client aspect, so I moved on.</p>
-<h3 id="evolution"><a href="https://gitlab.gnome.org/GNOME/evolution" rel="external">Evolution</a></h3>
-<p>Similar to Thunderbird, this is also an email client with calendars and tasks. I backed out of the email setup, then started adding my calendars and tasks lists. I say "started" because I seemingly had to add them one at a time. It's possible that there was an option to add every calendar and list at once, but it wasn't obvious to me anywhere on the UI or during the calendar adding process.</p>
-<p>Each time I wanted to add a new calendar or task list, I would have to paste my Nextcloud URL, type in my long username and password, and then manually select a single calendar or list. This wasn't so bad for my calendars, because I only have two, but I have a task list for every class I'm taking and a few extras.</p>
-<p>Halfway through adding my lists, I decided to give up so I could finish tasks on them instead. (Or procrastinate by writing this)</p>
-<h3 id="cfait"><a href="https://codeberg.org/trougnouf/cfait" rel="external">cfait</a></h3>
-<p>This one is interesting because it offers both a TUI and a GUI. It's also only for tasks, so I would need a separate app for viewing my calendar.</p>
-<p>I installed it through cargo and tried both the TUI and GUI. After logging in to my Nextcloud, I spent some time on the TUI trying to get used to the keybinds. While I'm fine with using the terminal for some tasks, and even prefer it in some cases, I'm just too used to clicking on to-do boxes. Given a little more time, I probably could have adapted to the TUI, but I really wanted to try the GUI.</p>
-<p>The GUI was almost perfect. The task view color codes tasks based on which list they're from, and the UI looks great with many color scheme options. There was no way to maximize the window, though. Even when I increased the size of the window to fill my monitor screen, it went back to the default size the next time the application was reopened.</p>
-<p>I really want my calendar and tasks to be accessible from the same application, but if I changed my mind, I might come back to this.</p>
-<h2 id="the-winner-is">The Winner Is...</h2>
-<p>... none of the above?</p>
-<p>In the end, I went back to using Nextcloud Web's Calendar and Tasks pages. UI and reliability matter the most to me, and although KOrganizer came close, the way it showed task lists made it difficult for me to tell which task belonged to which list at a glance.</p>
-<p>I might look back into Merkuro in the future. Hopefully it works by then, or I at least have more time to troubleshoot.</p>
-<p>I'm also sort of tempted to write my own client, though I haven't looked into how CalDAV works at all. Maybe next break!</p>
-<p>If anyone has any other recommendations, please reach out to me on Matrix!</p>]]></summary>
   </entry>
   <entry>
     <title>reading list</title>
